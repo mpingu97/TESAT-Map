@@ -1,0 +1,13 @@
+.gebaeude {
+  fill: #000080;
+  opacity: 0.7;
+  stroke: #000000;
+  stroke-width: 0.587026;
+  stroke-dasharray: none;
+  stroke-opacity: 1;
+}
+
+.gebaeude:hover {
+  fill: #000080;
+  opacity: 1;
+}
